@@ -1,8 +1,3 @@
-# https://www.acmicpc.net/problem/1654
-# 랜선 자르기
-
-# 이분탐색
-
 K, N = map(int, input().split())
 
 lines = [int(input()) for _ in range(K)]
